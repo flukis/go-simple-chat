@@ -1,2 +1,3 @@
-# gochatcoba
-Chat application via websocket using Go
+# Golang Chat Using Websocket
+
+Still not implement a mutex
